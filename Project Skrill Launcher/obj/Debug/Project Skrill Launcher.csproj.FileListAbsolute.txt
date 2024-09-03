@@ -1,0 +1,14 @@
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\bin\Debug\Project Skrill Launcher.exe.config
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\bin\Debug\Project Skrill Launcher.exe
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\bin\Debug\Project Skrill Launcher.pdb
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\obj\Debug\Project Skrill Launcher.csproj.AssemblyReference.cache
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\obj\Debug\Project_Skrill_Launcher.main.resources
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\obj\Debug\Project_Skrill_Launcher.Properties.Resources.resources
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\obj\Debug\Project Skrill Launcher.csproj.GenerateResource.cache
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\obj\Debug\Project Skrill Launcher.csproj.CoreCompileInputs.cache
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\obj\Debug\Project Skrill Launcher.exe
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\obj\Debug\Project Skrill Launcher.pdb
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\bin\Debug\Project Skrill Launcher.exe.manifest
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\bin\Debug\Project Skrill Launcher.application
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\obj\Debug\Project Skrill Launcher.exe.manifest
+C:\Users\shadow\source\repos\Project Skrill Launcher\Project Skrill Launcher\obj\Debug\Project Skrill Launcher.application
