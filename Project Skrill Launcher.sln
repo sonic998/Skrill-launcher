@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Skrill Launcher", "Project Skrill Launcher\Project Skrill Launcher.csproj", "{FEF7EA40-0DD3-4716-ABDD-99665B017549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Debug|ARM64.Build.0 = Debug|ARM64
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Debug|x86.ActiveCfg = Debug|x86
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Debug|x86.Build.0 = Debug|x86
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Release|ARM64.ActiveCfg = Release|ARM64
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Release|ARM64.Build.0 = Release|ARM64
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Release|x86.ActiveCfg = Release|x86
+		{FEF7EA40-0DD3-4716-ABDD-99665B017549}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48DD157-C3F5-46A9-95C4-4E0058C11370}
+	EndGlobalSection
+EndGlobal
